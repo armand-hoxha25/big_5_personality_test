@@ -1,0 +1,51 @@
+code,question,question_number
+EXT1,I am the life of the party.,1
+EXT2,I don't talk a lot.,6
+EXT3,I feel comfortable around people.,11
+EXT4,I keep in the background.,16
+EXT5,I start conversations.,21
+EXT6,I have little to say.,26
+EXT7,I talk to a lot of different people at parties.,31
+EXT8,I don't like to draw attention to myself.,36
+EXT9,I don't mind being the center of attention.,41
+EXT10,I am quiet around strangers.,46
+EST1,I get stressed out easily.,4
+EST2,I am relaxed most of the time.,9
+EST3,I worry about things.,14
+EST4,I seldom feel blue.,19
+EST5,I am easily disturbed.,24
+EST6,I get upset easily.,29
+EST7,I change my mood a lot.,34
+EST8,I have frequent mood swings.,39
+EST9,I get irritated easily.,44
+EST10,I often feel blue.,49
+AGR1,I feel little concern for others.,2
+AGR2,I am interested in people.,7
+AGR3,I insult people.,12
+AGR4,I sympathize with others' feelings.,17
+AGR5,I am not interested in other people's problems.,22
+AGR6,I have a soft heart.,27
+AGR7,I am not really interested in others.,32
+AGR8,I take time out for others.,37
+AGR9,I feel others' emotions.,42
+AGR10,I make people feel at ease.,47
+CSN1,I am always prepared.,3
+CSN2,I leave my belongings around.,8
+CSN3,I pay attention to details.,13
+CSN4,I make a mess of things.,18
+CSN5,I get chores done right away.,23
+CSN6,I often forget to put things back in their proper place.,28
+CSN7,I like order.,33
+CSN8,I shirk my duties.,38
+CSN9,I follow a schedule.,43
+CSN10,I am exacting in my work.,48
+OPN1,I have a rich vocabulary.,5
+OPN2,I have difficulty understanding abstract ideas.,10
+OPN3,I have a vivid imagination.,15
+OPN4,I am not interested in abstract ideas.,20
+OPN5,I have excellent ideas.,25
+OPN6,I do not have a good imagination.,30
+OPN7,I am quick to understand things.,35
+OPN8,I use difficult words.,40
+OPN9,I spend time reflecting on things.,45
+OPN10,I am full of ideas.,50
