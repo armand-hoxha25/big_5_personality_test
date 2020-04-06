@@ -16,14 +16,14 @@ These are the questions that I aim to answer, with the first being the one that 
 
 #### Libraries
 
-python = 3.7.3 
-pandas = 1.0.2 
-geopandas = 0.6.1 
-numpy = 1.18.1 
-matplotlib = 3.1.3 
-bokeh = 2.0.0 
-country-converter = 0.6.7 
-seaborn = 0.10.0
+python = 3.7.3 <br>
+pandas = 1.0.2 <br>
+geopandas = 0.6.1 <br>
+numpy = 1.18.1 <br>
+matplotlib = 3.1.3 <br>
+bokeh = 2.0.0 <br>
+country-converter = 0.6.7 <br> 
+seaborn = 0.10.0 <br>
 
 #### Files
 
